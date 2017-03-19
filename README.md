@@ -71,3 +71,6 @@ The List Data Type continued. `del` function
 
 [Lesson 13.3](https://github.com/freemacj/Automate_The_Borning_Stuff/blob/master/lessons13.3.py) 
 Using `len()`, concatenation, the `list()` function, `in` and `not in` operators
+
+[Lesson 14](https://github.com/freemacj/Automate_The_Borning_Stuff/blob/master/lessons14.py) 
+`For` loops with Lists, Multiple Assignment, and Augmented Operators
