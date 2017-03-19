@@ -46,3 +46,4 @@ Additional example of 9.2 (arguments, parameters, functions)
 Keyword Arguments
 
 [Lesson 10.1](https://github.com/freemacj/Automate_The_Borning_Stuff/blob/master/lessons10.1.py)
+Global and Local variable scope
