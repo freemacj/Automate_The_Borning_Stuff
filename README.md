@@ -76,4 +76,7 @@ Using `len()`, concatenation, the `list()` function, `in` and `not in` operators
 `For` loops with Lists, Multiple Assignment, and Augmented Operators
 
 [Lesson 15](https://github.com/freemacj/Automate_The_Borning_Stuff/blob/master/lessons15.py) 
-List methods including: `index()`, `append()`, `insert()`, `remove()`, `sort()`, reverse sort and ASCII-betical order
+List Methods including: `index()`, `append()`, `insert()`, `remove()`, `sort()`, reverse sort and ASCII-betical order
+
+[Lesson 16](https://github.com/freemacj/Automate_The_Borning_Stuff/blob/master/lessons16.py) 
+Similarities between lists & strings, `copy.deepcopy()` Function, Line Continuation
