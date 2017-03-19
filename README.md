@@ -47,3 +47,12 @@ Keyword Arguments
 
 [Lesson 10.1](https://github.com/freemacj/Automate_The_Borning_Stuff/blob/master/lessons10.1.py)
 Global and Local variable scope
+
+[Lesson 10.2](https://github.com/freemacj/Automate_The_Borning_Stuff/blob/master/lessons10.2.py)
+Global statements
+
+[Lesson 11.1](https://github.com/freemacj/Automate_The_Borning_Stuff/blob/master/lessons11.1.py)
+"Try" and "Except" statements.
+
+[Lesson 11.2](https://github.com/freemacj/Automate_The_Borning_Stuff/blob/master/lessons11.2.py)
+Input validation and "Try" and "Except" statements continued.
