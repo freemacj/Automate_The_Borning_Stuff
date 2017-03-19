@@ -74,3 +74,6 @@ Using `len()`, concatenation, the `list()` function, `in` and `not in` operators
 
 [Lesson 14](https://github.com/freemacj/Automate_The_Borning_Stuff/blob/master/lessons14.py) 
 `For` loops with Lists, Multiple Assignment, and Augmented Operators
+
+[Lesson 15](https://github.com/freemacj/Automate_The_Borning_Stuff/blob/master/lessons15.py) 
+List methods including: `index()`, `append()`, `insert()`, `remove()`, `sort()`, reverse sort and ASCII-betical order
