@@ -1,34 +1,34 @@
 # Automate_The_Borning_Stuff
 
 [Lesson 3](https://github.com/freemacj/Automate_The_Borning_Stuff/blob/master/lesson3.py)
-print, input, str, int, float, len
+`print()`, `input()`, `str()`, `int()`, `float()`, `len()`
 
 [Lesson 5](https://github.com/freemacj/Automate_The_Borning_Stuff/blob/master/lesson5.py)
-if, elif, else
+`if`, `elif`, `else`
 
 [Lesson 6.1](https://github.com/freemacj/Automate_The_Borning_Stuff/blob/master/lesson6.1.py)
-First introduction to 'while' loops
+First introduction to `while` loops
 
 [Lesson 6.2](https://github.com/freemacj/Automate_The_Borning_Stuff/blob/master/lesson6.2.py)
-Annoying 'your name' program using while loop
+Annoying 'your name' program using `while` loop
 
 [Lesson 6.3](https://github.com/freemacj/Automate_The_Borning_Stuff/blob/master/lesson6.3.py)
-Rewriting the annoying 'your name' program using a while loop and a break statement
+Rewriting the annoying 'your name' program using a `while` loop and a `break` statement
 
 [Lesson 6.4](https://github.com/freemacj/Automate_The_Borning_Stuff/blob/master/lesson6.4.py)
-while loop that includes a continue statement
+`while` loop that includes a `continue` statement
 
 [Lesson 7.1](https://github.com/freemacj/Automate_The_Borning_Stuff/blob/master/lesson7.1.py)
-Introduction to "for loops"
+Introduction to `for` loops
 
 [Lesson 7.2](https://github.com/freemacj/Automate_The_Borning_Stuff/blob/master/lesson7.2.py)
-for loops continued, intro to range() function, and Carl Fredrich Gauss adding all numbers 1 to 100
+`for` loops continued, intro to `range()` function, and Carl Fredrich Gauss adding all numbers 1 to 100
 
 [Lesson 8.1](https://github.com/freemacj/Automate_The_Borning_Stuff/blob/master/lesson8.1.py)
 Importing modules from the python standard library, and calling their functions
 
 [Lesson 8.2](https://github.com/freemacj/Automate_The_Borning_Stuff/blob/master/lesson8.2.py)
-Alternative way to import modules and call their functions
+Alternative way to `import` modules and call their functions
 
 [Lesson 9.1](https://github.com/freemacj/Automate_The_Borning_Stuff/blob/master/lesson9.1.py)
 Writing your own functions
@@ -52,10 +52,22 @@ Global and Local variable scope
 Global statements
 
 [Lesson 11.1](https://github.com/freemacj/Automate_The_Borning_Stuff/blob/master/lessons11.1.py)
-"Try" and "Except" statements.
+`Try` and `Except` statements.
 
 [Lesson 11.2](https://github.com/freemacj/Automate_The_Borning_Stuff/blob/master/lessons11.2.py)
-Input validation and "Try" and "Except" statements continued.
+Input validation and `Try` and `Except` statements continued.
 
-[Lesson 12](https://github.com/freemacj/Automate_The_Borning_Stuff/blob/master/lessons12.py)
-Writing a Complete Program: Guess the Number
+[Lesson 12](https://github.com/freemacj/Automate_The_Borning_Stuff/blob/master/lessons12.py) 
+<strong> Writing a Complete Program: Guess the Number </strong>
+
+[Lesson 13.1](https://github.com/freemacj/Automate_The_Borning_Stuff/blob/master/lessons13.1.py) 
+The List Data Type
+
+    Index = Single Value
+    Slice = List of Values
+
+[Lesson 13.2](https://github.com/freemacj/Automate_The_Borning_Stuff/blob/master/lessons13.2.py) 
+The List Data Type continued. `del` function
+
+[Lesson 13.3](https://github.com/freemacj/Automate_The_Borning_Stuff/blob/master/lessons13.3.py) 
+Using `len()`, concatenation, the `list()` function, `in` and `not in` operators
