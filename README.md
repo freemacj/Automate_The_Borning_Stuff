@@ -56,3 +56,6 @@ Global statements
 
 [Lesson 11.2](https://github.com/freemacj/Automate_The_Borning_Stuff/blob/master/lessons11.2.py)
 Input validation and "Try" and "Except" statements continued.
+
+[Lesson 12](https://github.com/freemacj/Automate_The_Borning_Stuff/blob/master/lessons12.py)
+Writing a Complete Program: Guess the Number

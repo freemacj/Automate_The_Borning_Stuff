@@ -4,7 +4,7 @@ numDogs = input()
 
 try:
     if int(numDogs) >= 4:
-        print('That\'s a log of dogs!')
+        print('That\'s a lot of dogs!')
     else:
         print('That\'s not that many dogs...')
 except ValueError:
